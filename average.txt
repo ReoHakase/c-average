@@ -1,0 +1,2 @@
+Score average of math is 48.333333
+Score average of English is 55.666667

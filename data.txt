@@ -1,0 +1,3 @@
+Maruko 65 77
+Tamae 80 90
+John 0 0
